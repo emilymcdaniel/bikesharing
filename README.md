@@ -43,7 +43,7 @@ Males are most likely to utilize the program if they are subscribers; those of u
 
 
 ### Future Analysis:
--Females do not utilize bikes as often as males. Push a survey among female subscribers to see what would they like, don't like, and what would encourage them to consider biking more often.
+- Females do not utilize bikes as often as males. Push a survey among female subscribers to see what would they like, don't like, and what would encourage them to consider biking more often.
 - Where bikes start and end their trips is significant to improve ease of access. Notice more bikes end their trips in outside Manhattan than bikes that start their trips. This is significant for bike returns and distribution. 
 
 ![Popular Start Locations](https://github.com/emilymcdaniel/bikesharing/blob/main/Resources/Start%20locations.PNG?raw=true)
